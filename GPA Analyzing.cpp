@@ -1,8 +1,3 @@
-//Kris Vanga
-//Prof.Fowler
-//CISP 400
-//GPA analyzer
-
 #include<iostream>
 #include<fstream>
 #include<ctime>
